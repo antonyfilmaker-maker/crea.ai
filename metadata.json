@@ -1,0 +1,6 @@
+{
+  "name": "Criador Social IA",
+  "description": "Plataforma avançada de IA para criação de roteiros, legendas, storytelling e muito mais para redes sociais, com painel intuitivo e suporte multilíngue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
